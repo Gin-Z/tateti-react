@@ -11,4 +11,5 @@ Luego desarrollé una versión más completa y mejorada (4 en línea), aplicando
 - componentes reutilizables
 - un diseño más cuidado
 
+Link de la aplicación: https://tatetiwemos.netlify.app/
 Podés ver la versión mejorada aquí: https://github.com/Gin-Z/4-en-linea-react-js
